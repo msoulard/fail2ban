@@ -1,0 +1,5 @@
+# Webmin login attempts extracted from /var/log/auth.log
+
+Dec 12 23:14:19 sb1 webmin[22134]: Non-existent login as robert from 188.40.105.142
+Dec 12 23:14:35 sb1 webmin[22140]: Non-existent login as robert from 188.40.105.142
+Dec 12 23:14:43 sb1 webmin[22145]: Non-existent login as robert from 188.40.105.142
