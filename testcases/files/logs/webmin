@@ -1,4 +1,4 @@
-# Webin  authentication failures from /var/log/auth.log
+# Webmin  authentication failures from /var/log/auth.log
 
 #1 User does not exists
 Dec 12 23:14:19 sb1 webmin[22134]: Non-existent login as robert from 188.40.105.142 
